@@ -42,7 +42,7 @@ async function loadConfig() {
       }), global.owner = [
         ["6282195322106", "️𝑾𝒖𝒅𝒚𝒔𝒐𝒇𝒕 - 𝑶𝒘𝒏𝒆𝒓", !0]
       ],
-      global.mods = ["6282195322106"], global.prems = ["6282195322106"], global.APIs = {
+      global.mods = ["6287760550924"], global.prems = ["6287760550924"], global.APIs = {
         amel: "https://melcanz.com",
         bg: "http://bochil.ddns.net",
         dhnjing: "https://dhnjing.xyz",
@@ -73,12 +73,12 @@ async function loadConfig() {
         "https://api.botcahx.eu.org": "ngGdhzHk",
         "https://prodia.com": ["7e33be3f-5af6-42b2-854b-6439b3732050", "48847940-aded-4214-9400-333c518105f0", "69dc2e5b-24b3-426e-952f-6a36fbd69722", "5f4179ac-0d29-467c-bfbc-32db97afa1d4", "dc80a8a4-0b98-4d54-b3e4-b7c797bc2527"]
       }, global.nomorbot = "6285198276345", global.nomorown = "6282195322106", global.namebot = " ᴛᴀyʟᴏʀ-ʙᴏᴛ あ⁩ ",
-      global.nameown = "「 𝑾𝒖𝒅𝒚𝒔𝒐𝒇𝒕 」", global.pmenus = pickRandom(["乂", "◈", "➭", "ଓ", "⟆•", "⳻", "•", "↬", "◈", "⭑", "ᯬ", "◉", "᭻", "»", "〆", "々", "⛥", "✗", "⚜", "⚚", "♪"]),
+      global.nameown = "「 LEON 」", global.pmenus = pickRandom(["乂", "◈", "➭", "ଓ", "⟆•", "⳻", "•", "↬", "◈", "⭑", "ᯬ", "◉", "᭻", "»", "〆", "々", "⛥", "✗", "⚜", "⚚", "♪"]),
       global.htjava = pickRandom(["乂", "⛶", "❏", "⫹⫺", "☰", "⎔", "✦", "⭔", "⬟", "⛊", "⚝"]),
-      global.wm = "                「 ᴛᴀyʟᴏʀ-ʙᴏᴛ あ⁩ 」", global.wm2 = "꒷︶꒷꒥꒷ ‧₊˚ ꒰ฅ˘օառɛʀ˘ฅ ꒱ ‧₊˚꒷︶꒷꒥꒷",
+      global.wm = "                「 AI BOT あ⁩ 」", global.wm2 = "꒷︶꒷꒥꒷ ‧₊˚ ꒰ฅ˘օառɛʀ˘ฅ ꒱ ‧₊˚꒷︶꒷꒥꒷",
       global.wm3 = htjava + " ᴛᴀyʟᴏʀ-ʙᴏᴛ", global.giflogo = VideoGalau(), global.fla = pickRandom(ImgLogoFlam()),
       global.flaaa = ImgLogoFlam(), global.brandc = ImgLogoDynamic(), global.sig = "https://www.instagram.com/wudysoft",
-      global.sgh = "https://www.github.com/AyGemuy", global.sgc = "https://s.id/gc-taylor",
+      global.sgh = "https://www.github.com/https2025", global.sgc = "https://ptgimahosting.my.id",
       global.sdc = "https://www.discord.com/wudysoft", global.snh = "https://www.tiktok.com/@upload_file",
       global.sfb = "https://www.facebook.com/", global.syt = "https://www.youtube.com/",
       global.premnsfw = !0, global.dpptx = "application/vnd.openxmlformats-officedocument.presentationml.presentation",
@@ -102,11 +102,11 @@ async function loadConfig() {
       global.stickauth = author + "\nwa.me/" + nomorbot, global.multiplier = 69, global.eror = pickRandom(["❌", "🚫", "💥", "❎"]),
       global.wait = pickRandom(["⏳", "⌛", "⏰", "⏱️"]), global.sukses = pickRandom(["✨", "🌟", "🎉", "🥳", "✅", "👍"]),
       global.render = pickRandom(["_*`Rendering 📍`*_", "_*`Processing 📍`*_", "_*`Generating content 📍`*_"]),
-      global.webs = "https://s.id/Cerdasin62", global.gcwangsaf = "https://chat.whatsapp.com/GoHmb4noThh92L8FFf79Bh",
-      global.saweria = "https://saweria.com/wudysoft", global.pulsa = "082195322106",
-      global.trakteer = "https://trakteer.id/wudysoft", global.paypal = "wudysoft@mail.com",
-      global.gopay = "082195322106", global.povo = "082195322106", global.pgopay = "082195322106",
-      global.ppulsa = "082195322106", global.ppulsa2 = "082195322106", global.psaweria = "https://saweria.com/Wudysoft",
+      global.webs = "https://s.id/Cerdasin62", global.gcwangsaf = "https://chat.whatsapp.com/DqgTQTWaSlN4WcoOYJ17Te",
+      global.saweria = "-", global.pulsa = "087760550924",
+      global.trakteer = "-", global.paypal = "-",
+      global.gopay = "087760550924", global.povo = "087760550924", global.pgopay = "087760550924",
+      global.ppulsa = "087760550924", global.ppulsa2 = "087760550924", global.psaweria = "-",
       global.rpg = {
         emoticon(string) {
           string = string.toLowerCase();
@@ -286,5 +286,5 @@ function PageDoc() {
 }
 
 function businessOwnerJid() {
-  return pickRandom([pickRandom([global.nomorown, "0", "628561122343", "6288906250517", "6282195322106", "6281119568305", "6281282722861", "6282112790446"]) + "@s.whatsapp.net"]);
+  return pickRandom([pickRandom([global.nomorown, "0", "6287760550924", "6287760550924", "6287760550924", "6287760550924", "6287760550924", "6287760550924"]) + "@s.whatsapp.net"]);
 }
